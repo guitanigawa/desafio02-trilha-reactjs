@@ -10,7 +10,7 @@ interface CartProviderProps {
 interface UpdateProductAmount {
   productId: number;
   amount: number;
-}a
+}
 
 interface CartContextData {
   cart: Product[];
